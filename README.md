@@ -1,7 +1,7 @@
 # Clipboard Landing Page
 
 A landing page built to test my level of web typography settings, alignment and arrangement.
-[View Site]()
+[View Site](https://clip-boards.netlify.app)
 
 ## Tools
 1. Html
